@@ -1,5 +1,6 @@
 <b>ImageList</b><br>
 Application for search and show images.<br>
+IDE: Delphi 10 Seattle.<br>
 Tasks and notes:<br>
  - UI: button and listbox;
  - button press opens select folder dialog;
@@ -22,5 +23,4 @@ Tasks and notes:<br>
  - интерфейс не должен тормозить и мешать пользователю.
  <br>
 
-Delphi 10 Seattle
 
