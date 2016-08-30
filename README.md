@@ -1,7 +1,7 @@
 # TestTasks
 Test tasks from employers
 
-ImageList<br>
+<b>ImageList</b><br>
 Application for search and show images.<br>
 Tasks and notes:<br>
  - UI: button and listbox;
@@ -13,7 +13,7 @@ Tasks and notes:<br>
  - UI do not freeze.
 <br><br>
 
---- Russian ---<br>
+<i>--- Russian ---</i><br>
 Приложения для поиска и отображения изображений.<br>
 Задачи и указания:<br>
  - интерфейс программы: кнопка и список;
@@ -23,5 +23,6 @@ Tasks and notes:<br>
  - двойной клик на строку списка открывает выбранное изображение:
  - выбор строк списка и открытие изображений должны осуществляться до окончания поиска;
  - интерфейс не должен тормозить и мешать пользователю.
- --- ---
+ <br><i>--- ---</i>
+
  
