@@ -1,9 +1,9 @@
 # TestTasks
 Test tasks from employers
 
-ImageList
-Application for search and show images.
-Tasks and notes:
+ImageList<br>
+Application for search and show images.<br>
+Tasks and notes:<br>
  - UI: button and listbox;
  - button press opens select folder dialog;
  - after that starts search images in selected folder and subfolders;
@@ -11,10 +11,10 @@ Tasks and notes:
  - listbox double click opens selected image;
  - string selecting and image opening must work before search finished;
  - UI do not freeze.
-
---- Russian ---
-Приложения для поиска и отображения изображений.
-Задачи и указания:
+<br>
+--- Russian ---<br>
+Приложения для поиска и отображения изображений.<br>
+Задачи и указания:<br>
  - интерфейс программы: кнопка и список;
  - по нажатию кнопки открывается диалоговое окно в котором необходимо выбрать каталог;
  - после выбора каталога программа начинает поиск изображений в каталоге и подкаталогах;
