@@ -11,7 +11,8 @@ Tasks and notes:<br>
  - listbox double click opens selected image;
  - string selecting and image opening must work before search finished;
  - UI do not freeze.
-<br><br>
+<br>
+
 <i>--- Russian ---</i><br>
 Приложения для поиска и отображения изображений.<br>
 Задачи и заметки:<br>
@@ -22,6 +23,7 @@ Tasks and notes:<br>
  - двойной клик на строку списка открывает выбранное изображение:
  - выбор строк списка и открытие изображений должны осуществляться до окончания поиска;
  - интерфейс не должен тормозить и мешать пользователю.
- <br><i>--- ---</i>
+ <br>
+
 
  
